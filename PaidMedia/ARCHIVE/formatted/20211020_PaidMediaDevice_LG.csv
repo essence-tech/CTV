@@ -1,0 +1,919 @@
+Date,Device,Vehicle,Spend,WeekOfYear
+2021-01-04,LG,LG,982.35,1
+2021-01-05,LG,LG,982.35,1
+2021-01-06,LG,LG,982.35,1
+2021-01-07,LG,LG,982.35,1
+2021-01-08,LG,LG,982.35,1
+2021-01-09,LG,LG,982.35,1
+2021-01-10,LG,LG,982.35,1
+2021-01-11,LG,LG,982.35,2
+2021-01-12,LG,LG,982.35,2
+2021-01-13,LG,LG,982.35,2
+2021-01-14,LG,LG,982.35,2
+2021-01-15,LG,LG,982.35,2
+2021-01-16,LG,LG,982.35,2
+2021-01-17,LG,LG,982.35,2
+2021-01-18,LG,LG,982.35,3
+2021-01-19,LG,LG,982.35,3
+2021-01-20,LG,LG,982.35,3
+2021-01-21,LG,LG,982.35,3
+2021-01-22,LG,LG,982.35,3
+2021-01-23,LG,LG,982.35,3
+2021-01-24,LG,LG,982.35,3
+2021-01-25,LG,LG,982.35,4
+2021-01-26,LG,LG,982.35,4
+2021-01-27,LG,LG,982.35,4
+2021-01-28,LG,LG,982.35,4
+2021-01-29,LG,LG,982.35,4
+2021-01-30,LG,LG,982.35,4
+2021-01-31,LG,LG,982.35,4
+2021-02-01,LG,LG,1691.96,5
+2021-02-02,LG,LG,1691.96,5
+2021-02-03,LG,LG,1691.96,5
+2021-02-04,LG,LG,1691.96,5
+2021-02-05,LG,LG,1691.96,5
+2021-02-06,LG,LG,1691.96,5
+2021-02-07,LG,LG,1691.96,5
+2021-02-08,LG,LG,1691.96,6
+2021-02-09,LG,LG,1691.96,6
+2021-02-10,LG,LG,1691.96,6
+2021-02-11,LG,LG,1691.96,6
+2021-02-12,LG,LG,1691.96,6
+2021-02-13,LG,LG,1691.96,6
+2021-02-14,LG,LG,1691.96,6
+2021-02-15,LG,LG,1691.96,7
+2021-02-16,LG,LG,1691.96,7
+2021-02-17,LG,LG,1691.96,7
+2021-02-18,LG,LG,1691.96,7
+2021-02-19,LG,LG,1691.96,7
+2021-02-20,LG,LG,1691.96,7
+2021-02-21,LG,LG,1691.96,7
+2021-02-22,LG,LG,1691.96,8
+2021-02-23,LG,LG,1691.96,8
+2021-02-24,LG,LG,1691.96,8
+2021-02-25,LG,LG,1691.96,8
+2021-02-26,LG,LG,1691.96,8
+2021-02-27,LG,LG,1691.96,8
+2021-02-28,LG,LG,1691.96,8
+2021-03-01,LG,LG,1544.38,9
+2021-03-01,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,9
+2021-03-02,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,9
+2021-03-02,LG,LG,1544.38,9
+2021-03-03,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,9
+2021-03-03,LG,LG,1544.38,9
+2021-03-04,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,9
+2021-03-04,LG,LG,1544.38,9
+2021-03-05,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,9
+2021-03-05,LG,LG,1544.38,9
+2021-03-06,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,9
+2021-03-06,LG,LG,1544.38,9
+2021-03-07,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,9
+2021-03-07,LG,LG,1544.38,9
+2021-03-08,LG,LG,1544.38,10
+2021-03-08,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,10
+2021-03-09,LG,LG,1544.38,10
+2021-03-09,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,10
+2021-03-10,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,10
+2021-03-10,LG,LG,1544.38,10
+2021-03-11,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,10
+2021-03-11,LG,LG,1544.38,10
+2021-03-12,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,10
+2021-03-12,LG,LG,1544.38,10
+2021-03-13,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,10
+2021-03-13,LG,LG,1544.38,10
+2021-03-14,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,10
+2021-03-14,LG,LG,1544.38,10
+2021-03-15,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,11
+2021-03-15,LG,LG,1544.38,11
+2021-03-16,LG,LG,1544.38,11
+2021-03-16,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,11
+2021-03-17,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,11
+2021-03-17,LG,LG,1544.38,11
+2021-03-18,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,11
+2021-03-18,LG,LG,1544.38,11
+2021-03-19,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,11
+2021-03-19,LG,LG,1544.38,11
+2021-03-20,LG,LG,1544.38,11
+2021-03-20,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,11
+2021-03-21,LG,LG,1544.38,11
+2021-03-21,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,11
+2021-03-22,LG,LG,1544.38,12
+2021-03-22,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,12
+2021-03-23,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,12
+2021-03-23,LG,LG,1544.38,12
+2021-03-24,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,12
+2021-03-24,LG,LG,1544.38,12
+2021-03-25,LG,LG,1544.38,12
+2021-03-25,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,12
+2021-03-26,LG,LG,1544.38,12
+2021-03-26,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,12
+2021-03-27,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,12
+2021-03-27,LG,LG,1544.38,12
+2021-03-28,LG,LG,1544.38,12
+2021-03-28,LG,LG Home Launcher True Crime & Doc Devil in Disguise,138.89,12
+2021-03-29,LG,LG Home Launcher Awareness,529.83,13
+2021-03-29,LG,LG Channel Store & Search Awareness,294.35,13
+2021-03-29,LG,LG Home Launcher Retention,526.08,13
+2021-03-29,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,13
+2021-03-29,LG,LG Home Launcher Comedy Rutherford Falls,977.83,13
+2021-03-30,LG,LG Channel Store & Search Awareness,294.35,13
+2021-03-30,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,13
+2021-03-30,LG,LG Home Launcher Retention,526.08,13
+2021-03-30,LG,LG Home Launcher Awareness,529.83,13
+2021-03-30,LG,LG Home Launcher Comedy Rutherford Falls,977.83,13
+2021-03-31,LG,LG Channel Store & Search Awareness,294.35,13
+2021-03-31,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,13
+2021-03-31,LG,LG Home Launcher Awareness,529.83,13
+2021-03-31,LG,LG Home Launcher Comedy Rutherford Falls,977.83,13
+2021-03-31,LG,LG Home Launcher Retention,526.08,13
+2021-04-01,LG,LG Home Launcher Comedy Rutherford Falls,977.83,13
+2021-04-01,LG,LG Channel Store & Search Awareness,294.35,13
+2021-04-01,LG,LG Home Launcher Awareness,529.83,13
+2021-04-01,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,13
+2021-04-01,LG,LG Home Launcher Retention,526.08,13
+2021-04-02,LG,LG Home Launcher Comedy Rutherford Falls,977.83,13
+2021-04-02,LG,LG Channel Store & Search Awareness,294.35,13
+2021-04-02,LG,LG Home Launcher Awareness,529.83,13
+2021-04-02,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,13
+2021-04-02,LG,LG Home Launcher Retention,526.08,13
+2021-04-03,LG,LG Home Launcher Retention,526.08,13
+2021-04-03,LG,LG Home Launcher Comedy Rutherford Falls,977.83,13
+2021-04-03,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,13
+2021-04-03,LG,LG Channel Store & Search Awareness,294.35,13
+2021-04-03,LG,LG Home Launcher Awareness,529.83,13
+2021-04-04,LG,LG Channel Store & Search Awareness,294.35,13
+2021-04-04,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,13
+2021-04-04,LG,LG Home Launcher Awareness,529.83,13
+2021-04-04,LG,LG Home Launcher Retention,526.08,13
+2021-04-04,LG,LG Home Launcher Comedy Rutherford Falls,977.83,13
+2021-04-05,LG,LG Home Launcher Retention,526.08,14
+2021-04-05,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,14
+2021-04-05,LG,LG Channel Store & Search Awareness,294.35,14
+2021-04-05,LG,LG Home Launcher Awareness,529.83,14
+2021-04-05,LG,LG Home Launcher Comedy Rutherford Falls,977.83,14
+2021-04-06,LG,LG Home Launcher Comedy Rutherford Falls,977.83,14
+2021-04-06,LG,LG Home Launcher Awareness,529.83,14
+2021-04-06,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,14
+2021-04-06,LG,LG Channel Store & Search Awareness,294.35,14
+2021-04-06,LG,LG Home Launcher Retention,526.08,14
+2021-04-07,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,14
+2021-04-07,LG,LG Channel Store & Search Awareness,294.35,14
+2021-04-07,LG,LG Home Launcher Comedy Rutherford Falls,977.83,14
+2021-04-07,LG,LG Home Launcher Retention,526.08,14
+2021-04-07,LG,LG Home Launcher Awareness,529.83,14
+2021-04-08,LG,LG Home Launcher Awareness,529.83,14
+2021-04-08,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,14
+2021-04-08,LG,LG Home Launcher Comedy Rutherford Falls,977.83,14
+2021-04-08,LG,LG Channel Store & Search Awareness,294.35,14
+2021-04-08,LG,LG Home Launcher Retention,526.08,14
+2021-04-09,LG,LG Home Launcher Retention,526.08,14
+2021-04-09,LG,LG Home Launcher Comedy Rutherford Falls,977.83,14
+2021-04-09,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,14
+2021-04-09,LG,LG Home Launcher Awareness,529.83,14
+2021-04-09,LG,LG Channel Store & Search Awareness,294.35,14
+2021-04-10,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,14
+2021-04-10,LG,LG Home Launcher Awareness,529.83,14
+2021-04-10,LG,LG Home Launcher Retention,526.08,14
+2021-04-10,LG,LG Channel Store & Search Awareness,294.35,14
+2021-04-10,LG,LG Home Launcher Comedy Rutherford Falls,977.83,14
+2021-04-11,LG,LG Channel Store & Search Awareness,294.35,14
+2021-04-11,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,14
+2021-04-11,LG,LG Home Launcher Awareness,529.83,14
+2021-04-11,LG,LG Home Launcher Comedy Rutherford Falls,977.83,14
+2021-04-11,LG,LG Home Launcher Retention,526.08,14
+2021-04-12,LG,LG Channel Store & Search Awareness,294.35,15
+2021-04-12,LG,LG Home Launcher Retention,526.08,15
+2021-04-12,LG,LG Home Launcher Awareness,529.83,15
+2021-04-12,LG,LG Home Launcher Comedy Rutherford Falls,977.83,15
+2021-04-12,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,15
+2021-04-13,LG,LG Home Launcher Comedy Rutherford Falls,977.83,15
+2021-04-13,LG,LG Channel Store & Search Awareness,294.35,15
+2021-04-13,LG,LG Home Launcher Retention,526.08,15
+2021-04-13,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,15
+2021-04-13,LG,LG Home Launcher Awareness,529.83,15
+2021-04-14,LG,LG Channel Store & Search Awareness,294.35,15
+2021-04-14,LG,LG Home Launcher Comedy Rutherford Falls,977.83,15
+2021-04-14,LG,LG Home Launcher Retention,526.08,15
+2021-04-14,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,15
+2021-04-14,LG,LG Home Launcher Awareness,529.83,15
+2021-04-15,LG,LG Home Launcher Retention,526.08,15
+2021-04-15,LG,LG Channel Store & Search Awareness,294.35,15
+2021-04-15,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,15
+2021-04-15,LG,LG Home Launcher Comedy Rutherford Falls,977.83,15
+2021-04-15,LG,LG Home Launcher Awareness,529.83,15
+2021-04-16,LG,LG Home Launcher Comedy Rutherford Falls,977.83,15
+2021-04-16,LG,LG Channel Store & Search Awareness,294.35,15
+2021-04-16,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,15
+2021-04-16,LG,LG Home Launcher Awareness,529.83,15
+2021-04-16,LG,LG Home Launcher Retention,526.08,15
+2021-04-17,LG,LG Home Launcher Retention,526.08,15
+2021-04-17,LG,LG Channel Store & Search Awareness,294.35,15
+2021-04-17,LG,LG Home Launcher Awareness,529.83,15
+2021-04-17,LG,LG Home Launcher Comedy Rutherford Falls,977.83,15
+2021-04-17,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,15
+2021-04-18,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,15
+2021-04-18,LG,LG Home Launcher Retention,526.08,15
+2021-04-18,LG,LG Channel Store & Search Awareness,294.35,15
+2021-04-18,LG,LG Home Launcher Awareness,529.83,15
+2021-04-18,LG,LG Home Launcher Comedy Rutherford Falls,977.83,15
+2021-04-19,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,16
+2021-04-19,LG,LG Home Launcher Comedy Rutherford Falls,977.83,16
+2021-04-19,LG,LG Home Launcher Retention,526.08,16
+2021-04-19,LG,LG Home Launcher Awareness,529.83,16
+2021-04-19,LG,LG Channel Store & Search Awareness,294.35,16
+2021-04-20,LG,LG Home Launcher Awareness,529.83,16
+2021-04-20,LG,LG Home Launcher Comedy Rutherford Falls,977.83,16
+2021-04-20,LG,LG Home Launcher Retention,526.08,16
+2021-04-20,LG,LG Channel Store & Search Awareness,294.35,16
+2021-04-20,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,16
+2021-04-21,LG,LG Channel Store & Search Awareness,294.35,16
+2021-04-21,LG,LG Home Launcher Retention,526.08,16
+2021-04-21,LG,LG Home Launcher Comedy Rutherford Falls,977.83,16
+2021-04-21,LG,LG Home Launcher Awareness,529.83,16
+2021-04-21,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,16
+2021-04-22,LG,LG Home Launcher Comedy Rutherford Falls,977.83,16
+2021-04-22,LG,LG Channel Store & Search Awareness,294.35,16
+2021-04-22,LG,LG Home Launcher Awareness,529.83,16
+2021-04-22,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,16
+2021-04-22,LG,LG Home Launcher Retention,526.08,16
+2021-04-23,LG,LG Home Launcher Comedy Rutherford Falls,977.83,16
+2021-04-23,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,16
+2021-04-23,LG,LG Channel Store & Search Awareness,294.35,16
+2021-04-23,LG,LG Home Launcher Retention,526.08,16
+2021-04-23,LG,LG Home Launcher Awareness,529.83,16
+2021-04-24,LG,LG Channel Store & Search Awareness,294.35,16
+2021-04-24,LG,LG Home Launcher Comedy Rutherford Falls,977.83,16
+2021-04-24,LG,LG Home Launcher Awareness,529.83,16
+2021-04-24,LG,LG Home Launcher Retention,526.08,16
+2021-04-24,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,16
+2021-04-25,LG,LG Home Launcher True Crime & Doc Devil in Disguise,218.25,16
+2021-04-25,LG,LG Home Launcher Comedy Rutherford Falls,977.83,16
+2021-04-25,LG,LG Home Launcher Retention,526.08,16
+2021-04-25,LG,LG Home Launcher Awareness,529.83,16
+2021-04-25,LG,LG Channel Store & Search Awareness,294.35,16
+2021-04-26,LG,LG Native Ads Genre Target,1428.57,17
+2021-04-26,LG,LG Channel Store & Search Awareness,243.33,17
+2021-04-26,LG,LG Home Launcher Comedy Girls5Eva,1428.57,17
+2021-04-26,LG,LG Home Launcher Comedy Rutherford Falls,646.29,17
+2021-04-26,LG,LG Home Launcher Awareness,437.99,17
+2021-04-26,LG,LG Home Launcher Retention,437.99,17
+2021-04-27,LG,LG Channel Store & Search Awareness,243.33,17
+2021-04-27,LG,LG Home Launcher Comedy Rutherford Falls,646.29,17
+2021-04-27,LG,LG Home Launcher Retention,437.99,17
+2021-04-27,LG,LG Native Ads Genre Target,1428.57,17
+2021-04-27,LG,LG Home Launcher Awareness,437.99,17
+2021-04-27,LG,LG Home Launcher Comedy Girls5Eva,1428.57,17
+2021-04-28,LG,LG Home Launcher Retention,437.99,17
+2021-04-28,LG,LG Channel Store & Search Awareness,243.33,17
+2021-04-28,LG,LG Native Ads Genre Target,1428.57,17
+2021-04-28,LG,LG Home Launcher Awareness,437.99,17
+2021-04-28,LG,LG Home Launcher Comedy Rutherford Falls,646.29,17
+2021-04-28,LG,LG Home Launcher Comedy Girls5Eva,1428.57,17
+2021-04-29,LG,LG Channel Store & Search Awareness,243.33,17
+2021-04-29,LG,LG Home Launcher Awareness,437.99,17
+2021-04-29,LG,LG Home Launcher Comedy Girls5Eva,1428.57,17
+2021-04-29,LG,LG Home Launcher Retention,437.99,17
+2021-04-29,LG,LG Home Launcher Comedy Rutherford Falls,646.29,17
+2021-04-29,LG,LG Native Ads Genre Target,1428.57,17
+2021-04-30,LG,LG Home Launcher Comedy Girls5Eva,1428.57,17
+2021-04-30,LG,LG Channel Store & Search Awareness,243.33,17
+2021-04-30,LG,LG Home Launcher Awareness,437.99,17
+2021-04-30,LG,LG Home Launcher Comedy Rutherford Falls,646.29,17
+2021-04-30,LG,LG Home Launcher Retention,437.99,17
+2021-04-30,LG,LG Native Ads Genre Target,1428.57,17
+2021-05-01,LG,LG Native Ads Genre Target,1428.57,17
+2021-05-01,LG,LG Channel Store & Search Awareness,243.33,17
+2021-05-01,LG,LG Home Launcher Comedy Girls5Eva,1428.57,17
+2021-05-01,LG,LG Home Launcher Comedy Rutherford Falls,646.29,17
+2021-05-01,LG,LG Home Launcher Awareness,437.99,17
+2021-05-01,LG,LG Home Launcher Retention,437.99,17
+2021-05-02,LG,LG Home Launcher Awareness,437.99,17
+2021-05-02,LG,LG Native Ads Genre Target,1428.57,17
+2021-05-02,LG,LG Channel Store & Search Awareness,243.33,17
+2021-05-02,LG,LG Home Launcher Comedy Girls5Eva,1428.57,17
+2021-05-02,LG,LG Home Launcher Retention,437.99,17
+2021-05-02,LG,LG Home Launcher Comedy Rutherford Falls,646.29,17
+2021-05-03,LG,LG Native Ads Genre Target,1428.57,18
+2021-05-03,LG,LG Home Launcher Retention,437.99,18
+2021-05-03,LG,LG Home Launcher Comedy Rutherford Falls,646.29,18
+2021-05-03,LG,LG Home Launcher Awareness,437.99,18
+2021-05-03,LG,LG Home Launcher Comedy Girls5Eva,1428.57,18
+2021-05-03,LG,LG Channel Store & Search Awareness,243.33,18
+2021-05-04,LG,LG Home Launcher Comedy Girls5Eva,1428.57,18
+2021-05-04,LG,LG Home Launcher Retention,437.99,18
+2021-05-04,LG,LG Home Launcher Comedy Rutherford Falls,646.29,18
+2021-05-04,LG,LG Channel Store & Search Awareness,243.33,18
+2021-05-04,LG,LG Native Ads Genre Target,1428.57,18
+2021-05-04,LG,LG Home Launcher Awareness,437.99,18
+2021-05-05,LG,LG Home Launcher Retention,437.99,18
+2021-05-05,LG,LG Channel Store & Search Awareness,243.33,18
+2021-05-05,LG,LG Home Launcher Comedy Rutherford Falls,646.29,18
+2021-05-05,LG,LG Home Launcher Comedy Girls5Eva,1428.57,18
+2021-05-05,LG,LG Home Launcher Awareness,437.99,18
+2021-05-05,LG,LG Native Ads Genre Target,1428.57,18
+2021-05-06,LG,LG Home Launcher Comedy Girls5Eva,1428.57,18
+2021-05-06,LG,LG Home Launcher Retention,437.99,18
+2021-05-06,LG,LG Channel Store & Search Awareness,243.33,18
+2021-05-06,LG,LG Home Launcher Comedy Rutherford Falls,646.29,18
+2021-05-06,LG,LG Home Launcher Awareness,437.99,18
+2021-05-06,LG,LG Native Ads Genre Target,1428.57,18
+2021-05-07,LG,LG Home Launcher Retention,437.99,18
+2021-05-07,LG,LG Native Ads Genre Target,1428.57,18
+2021-05-07,LG,LG Channel Store & Search Awareness,243.33,18
+2021-05-07,LG,LG Home Launcher Comedy Rutherford Falls,646.29,18
+2021-05-07,LG,LG Home Launcher Awareness,437.99,18
+2021-05-07,LG,LG Home Launcher Comedy Girls5Eva,1428.57,18
+2021-05-08,LG,LG Native Ads Genre Target,1428.57,18
+2021-05-08,LG,LG Home Launcher Awareness,437.99,18
+2021-05-08,LG,LG Home Launcher Comedy Rutherford Falls,646.29,18
+2021-05-08,LG,LG Channel Store & Search Awareness,243.33,18
+2021-05-08,LG,LG Home Launcher Retention,437.99,18
+2021-05-08,LG,LG Home Launcher Comedy Girls5Eva,1428.57,18
+2021-05-09,LG,LG Home Launcher Comedy Girls5Eva,1428.57,18
+2021-05-09,LG,LG Native Ads Genre Target,1428.57,18
+2021-05-09,LG,LG Home Launcher Retention,437.99,18
+2021-05-09,LG,LG Home Launcher Comedy Rutherford Falls,646.29,18
+2021-05-09,LG,LG Home Launcher Awareness,437.99,18
+2021-05-09,LG,LG Channel Store & Search Awareness,243.33,18
+2021-05-10,LG,LG Home Launcher Comedy Girls5Eva,1428.57,19
+2021-05-10,LG,LG Home Launcher Retention,437.99,19
+2021-05-10,LG,LG Home Launcher Comedy Rutherford Falls,646.29,19
+2021-05-10,LG,LG Native Ads Genre Target,1428.57,19
+2021-05-10,LG,LG Channel Store & Search Awareness,243.33,19
+2021-05-10,LG,LG Home Launcher Awareness,437.99,19
+2021-05-11,LG,LG Home Launcher Comedy Rutherford Falls,646.29,19
+2021-05-11,LG,LG Home Launcher Awareness,437.99,19
+2021-05-11,LG,LG Channel Store & Search Awareness,243.33,19
+2021-05-11,LG,LG Native Ads Genre Target,1428.57,19
+2021-05-11,LG,LG Home Launcher Retention,437.99,19
+2021-05-11,LG,LG Home Launcher Comedy Girls5Eva,1428.57,19
+2021-05-12,LG,LG Channel Store & Search Awareness,243.33,19
+2021-05-12,LG,LG Native Ads Genre Target,1428.57,19
+2021-05-12,LG,LG Home Launcher Retention,437.99,19
+2021-05-12,LG,LG Home Launcher Comedy Rutherford Falls,646.29,19
+2021-05-12,LG,LG Home Launcher Awareness,437.99,19
+2021-05-12,LG,LG Home Launcher Comedy Girls5Eva,1428.57,19
+2021-05-13,LG,LG Home Launcher Retention,437.99,19
+2021-05-13,LG,LG Channel Store & Search Awareness,243.33,19
+2021-05-13,LG,LG Home Launcher Comedy Rutherford Falls,646.29,19
+2021-05-13,LG,LG Home Launcher Awareness,437.99,19
+2021-05-13,LG,LG Native Ads Genre Target,1428.57,19
+2021-05-13,LG,LG Home Launcher Comedy Girls5Eva,1428.57,19
+2021-05-14,LG,LG Home Launcher Awareness,437.99,19
+2021-05-14,LG,LG Home Launcher Retention,437.99,19
+2021-05-14,LG,LG Native Ads Genre Target,1428.57,19
+2021-05-14,LG,LG Channel Store & Search Awareness,243.33,19
+2021-05-14,LG,LG Home Launcher Comedy Girls5Eva,1428.57,19
+2021-05-14,LG,LG Home Launcher Comedy Rutherford Falls,646.29,19
+2021-05-15,LG,LG Home Launcher Comedy Rutherford Falls,646.29,19
+2021-05-15,LG,LG Native Ads Genre Target,1428.57,19
+2021-05-15,LG,LG Home Launcher Awareness,437.99,19
+2021-05-15,LG,LG Home Launcher Retention,437.99,19
+2021-05-15,LG,LG Home Launcher Comedy Girls5Eva,1428.57,19
+2021-05-15,LG,LG Channel Store & Search Awareness,243.33,19
+2021-05-16,LG,LG Home Launcher Comedy Girls5Eva,1428.57,19
+2021-05-16,LG,LG Channel Store & Search Awareness,243.33,19
+2021-05-16,LG,LG Home Launcher Awareness,437.99,19
+2021-05-16,LG,LG Native Ads Genre Target,1428.57,19
+2021-05-16,LG,LG Home Launcher Retention,437.99,19
+2021-05-16,LG,LG Home Launcher Comedy Rutherford Falls,646.29,19
+2021-05-17,LG,LG Home Launcher Comedy Girls5Eva,1428.57,20
+2021-05-17,LG,LG Home Launcher Awareness,437.99,20
+2021-05-17,LG,LG Native Ads Genre Target,1428.57,20
+2021-05-17,LG,LG Home Launcher Comedy Rutherford Falls,646.29,20
+2021-05-17,LG,LG Home Launcher Retention,437.99,20
+2021-05-17,LG,LG Channel Store & Search Awareness,243.33,20
+2021-05-18,LG,LG Channel Store & Search Awareness,243.33,20
+2021-05-18,LG,LG Home Launcher Retention,437.99,20
+2021-05-18,LG,LG Home Launcher Awareness,437.99,20
+2021-05-18,LG,LG Home Launcher Comedy Girls5Eva,1428.57,20
+2021-05-18,LG,LG Home Launcher Comedy Rutherford Falls,646.29,20
+2021-05-18,LG,LG Native Ads Genre Target,1428.57,20
+2021-05-19,LG,LG Home Launcher Awareness,437.99,20
+2021-05-19,LG,LG Native Ads Genre Target,1428.57,20
+2021-05-19,LG,LG Home Launcher Retention,437.99,20
+2021-05-19,LG,LG Channel Store & Search Awareness,243.33,20
+2021-05-19,LG,LG Home Launcher Comedy Rutherford Falls,646.29,20
+2021-05-19,LG,LG Home Launcher Comedy Girls5Eva,1428.57,20
+2021-05-20,LG,LG Channel Store & Search Awareness,243.33,20
+2021-05-20,LG,LG Home Launcher Comedy Rutherford Falls,646.29,20
+2021-05-20,LG,LG Home Launcher Awareness,437.99,20
+2021-05-20,LG,LG Home Launcher Comedy Girls5Eva,1428.57,20
+2021-05-20,LG,LG Native Ads Genre Target,1428.57,20
+2021-05-20,LG,LG Home Launcher Retention,437.99,20
+2021-05-21,LG,LG Native Ads Genre Target,1428.57,20
+2021-05-21,LG,LG Channel Store & Search Awareness,243.33,20
+2021-05-21,LG,LG Home Launcher Comedy Girls5Eva,1428.57,20
+2021-05-21,LG,LG Home Launcher Comedy Rutherford Falls,646.29,20
+2021-05-21,LG,LG Home Launcher Retention,437.99,20
+2021-05-21,LG,LG Home Launcher Awareness,437.99,20
+2021-05-22,LG,LG Native Ads Genre Target,1428.57,20
+2021-05-22,LG,LG Home Launcher Comedy Rutherford Falls,646.29,20
+2021-05-22,LG,LG Home Launcher Awareness,437.99,20
+2021-05-22,LG,LG Home Launcher Comedy Girls5Eva,1428.57,20
+2021-05-22,LG,LG Home Launcher Retention,437.99,20
+2021-05-22,LG,LG Channel Store & Search Awareness,243.33,20
+2021-05-23,LG,LG Home Launcher Comedy Girls5Eva,1428.57,20
+2021-05-23,LG,LG Channel Store & Search Awareness,243.33,20
+2021-05-23,LG,LG Home Launcher Comedy Rutherford Falls,646.29,20
+2021-05-23,LG,LG Native Ads Genre Target,1428.57,20
+2021-05-23,LG,LG Home Launcher Retention,437.99,20
+2021-05-23,LG,LG Home Launcher Awareness,437.99,20
+2021-05-24,LG,LG Native Ads Genre Target,1428.57,21
+2021-05-24,LG,LG Channel Store & Search Awareness,243.33,21
+2021-05-24,LG,LG Home Launcher Comedy Girls5Eva,1428.57,21
+2021-05-24,LG,LG Home Launcher Awareness,437.99,21
+2021-05-24,LG,LG Home Launcher Retention,437.99,21
+2021-05-24,LG,LG Home Launcher Comedy Rutherford Falls,646.29,21
+2021-05-25,LG,LG Home Launcher Comedy Rutherford Falls,646.29,21
+2021-05-25,LG,LG Home Launcher Comedy Girls5Eva,1428.57,21
+2021-05-25,LG,LG Home Launcher Retention,437.99,21
+2021-05-25,LG,LG Native Ads Genre Target,1428.57,21
+2021-05-25,LG,LG Channel Store & Search Awareness,243.33,21
+2021-05-25,LG,LG Home Launcher Awareness,437.99,21
+2021-05-26,LG,LG Native Ads Genre Target,1428.57,21
+2021-05-26,LG,LG Home Launcher Awareness,437.99,21
+2021-05-26,LG,LG Home Launcher Comedy Rutherford Falls,646.29,21
+2021-05-26,LG,LG Home Launcher Comedy Girls5Eva,1428.57,21
+2021-05-26,LG,LG Home Launcher Retention,437.99,21
+2021-05-26,LG,LG Channel Store & Search Awareness,243.33,21
+2021-05-27,LG,LG Home Launcher Awareness,437.99,21
+2021-05-27,LG,LG Home Launcher Comedy Rutherford Falls,646.29,21
+2021-05-27,LG,LG Home Launcher Retention,437.99,21
+2021-05-27,LG,LG Channel Store & Search Awareness,243.33,21
+2021-05-27,LG,LG Native Ads Genre Target,1428.57,21
+2021-05-27,LG,LG Home Launcher Comedy Girls5Eva,1428.57,21
+2021-05-28,LG,LG Home Launcher Awareness,437.99,21
+2021-05-28,LG,LG Home Launcher Comedy Rutherford Falls,646.29,21
+2021-05-28,LG,LG Channel Store & Search Awareness,243.33,21
+2021-05-28,LG,LG Native Ads Genre Target,1428.57,21
+2021-05-28,LG,LG Home Launcher Retention,437.99,21
+2021-05-28,LG,LG Home Launcher Comedy Girls5Eva,1428.57,21
+2021-05-29,LG,LG Channel Store & Search Awareness,243.33,21
+2021-05-29,LG,LG Home Launcher Awareness,437.99,21
+2021-05-29,LG,LG Home Launcher Comedy Rutherford Falls,646.29,21
+2021-05-29,LG,LG Home Launcher Retention,437.99,21
+2021-05-29,LG,LG Home Launcher Comedy Girls5Eva,1428.57,21
+2021-05-29,LG,LG Native Ads Genre Target,1428.57,21
+2021-05-30,LG,LG Home Launcher Awareness,437.99,21
+2021-05-30,LG,LG Home Launcher Comedy Rutherford Falls,646.29,21
+2021-05-30,LG,LG Home Launcher Retention,437.99,21
+2021-05-30,LG,LG Native Ads Genre Target,1428.57,21
+2021-05-30,LG,LG Home Launcher Comedy Girls5Eva,1428.57,21
+2021-05-30,LG,LG Channel Store & Search Awareness,243.33,21
+2021-05-31,LG,LG 6/18 (12hr) RB,5357.14,22
+2021-05-31,LG,LG Channel Store & Search Awareness,240.79,22
+2021-05-31,LG,LG Home Launcher Awareness,529.83,22
+2021-05-31,LG,LG Native Display True Crime & Doc ACR,1388.89,22
+2021-05-31,LG,LG Home Launcher Retention,529.83,22
+2021-06-01,LG,LG Home Launcher Awareness,529.83,22
+2021-06-01,LG,LG Channel Store & Search Awareness,240.79,22
+2021-06-01,LG,LG Home Launcher Retention,529.83,22
+2021-06-01,LG,LG Native Display True Crime & Doc ACR,1388.89,22
+2021-06-01,LG,LG 6/18 (12hr) RB,5357.14,22
+2021-06-02,LG,LG Home Launcher Retention,529.83,22
+2021-06-02,LG,LG Channel Store & Search Awareness,240.79,22
+2021-06-02,LG,LG Native Display True Crime & Doc ACR,1388.89,22
+2021-06-02,LG,LG 6/18 (12hr) RB,5357.14,22
+2021-06-02,LG,LG Home Launcher Awareness,529.83,22
+2021-06-03,LG,LG Home Launcher Retention,529.83,22
+2021-06-03,LG,LG 6/18 (12hr) RB,5357.14,22
+2021-06-03,LG,LG Home Launcher Awareness,529.83,22
+2021-06-03,LG,LG Channel Store & Search Awareness,240.79,22
+2021-06-03,LG,LG Native Display True Crime & Doc ACR,1388.89,22
+2021-06-04,LG,LG Channel Store & Search Awareness,240.79,22
+2021-06-04,LG,LG Native Display True Crime & Doc ACR,1388.89,22
+2021-06-04,LG,LG 6/18 (12hr) RB,5357.14,22
+2021-06-04,LG,LG Home Launcher Retention,529.83,22
+2021-06-04,LG,LG Home Launcher Awareness,529.83,22
+2021-06-05,LG,LG Home Launcher Awareness,529.83,22
+2021-06-05,LG,LG Channel Store & Search Awareness,240.79,22
+2021-06-05,LG,LG 6/18 (12hr) RB,5357.14,22
+2021-06-05,LG,LG Native Display True Crime & Doc ACR,1388.89,22
+2021-06-05,LG,LG Home Launcher Retention,529.83,22
+2021-06-06,LG,LG Channel Store & Search Awareness,240.79,22
+2021-06-06,LG,LG Home Launcher Awareness,529.83,22
+2021-06-06,LG,LG 6/18 (12hr) RB,5357.14,22
+2021-06-06,LG,LG Home Launcher Retention,529.83,22
+2021-06-06,LG,LG Native Display True Crime & Doc ACR,1388.89,22
+2021-06-07,LG,LG Native Display True Crime & Doc ACR,1388.89,23
+2021-06-07,LG,LG Home Launcher Awareness,529.83,23
+2021-06-07,LG,LG 6/18 (12hr) RB,5357.14,23
+2021-06-07,LG,LG Home Launcher Retention,529.83,23
+2021-06-07,LG,LG Channel Store & Search Awareness,240.79,23
+2021-06-08,LG,LG 6/18 (12hr) RB,5357.14,23
+2021-06-08,LG,LG Native Display True Crime & Doc ACR,1388.89,23
+2021-06-08,LG,LG Home Launcher Retention,529.83,23
+2021-06-08,LG,LG Channel Store & Search Awareness,240.79,23
+2021-06-08,LG,LG Home Launcher Awareness,529.83,23
+2021-06-09,LG,LG Native Display True Crime & Doc ACR,1388.89,23
+2021-06-09,LG,LG Home Launcher Retention,529.83,23
+2021-06-09,LG,LG Channel Store & Search Awareness,240.79,23
+2021-06-09,LG,LG Home Launcher Awareness,529.83,23
+2021-06-09,LG,LG 6/18 (12hr) RB,5357.14,23
+2021-06-10,LG,LG Home Launcher Retention,529.83,23
+2021-06-10,LG,LG Home Launcher Awareness,529.83,23
+2021-06-10,LG,LG Channel Store & Search Awareness,240.79,23
+2021-06-10,LG,LG 6/18 (12hr) RB,5357.14,23
+2021-06-10,LG,LG Native Display True Crime & Doc ACR,1388.89,23
+2021-06-11,LG,LG Home Launcher Retention,529.83,23
+2021-06-11,LG,LG Home Launcher Awareness,529.83,23
+2021-06-11,LG,LG Native Display True Crime & Doc ACR,1388.89,23
+2021-06-11,LG,LG Channel Store & Search Awareness,240.79,23
+2021-06-11,LG,LG 6/18 (12hr) RB,5357.14,23
+2021-06-12,LG,LG 6/18 (12hr) RB,5357.14,23
+2021-06-12,LG,LG Home Launcher Awareness,529.83,23
+2021-06-12,LG,LG Home Launcher Retention,529.83,23
+2021-06-12,LG,LG Native Display True Crime & Doc ACR,1388.89,23
+2021-06-12,LG,LG Channel Store & Search Awareness,240.79,23
+2021-06-13,LG,LG Home Launcher Awareness,529.83,23
+2021-06-13,LG,LG Channel Store & Search Awareness,240.79,23
+2021-06-13,LG,LG 6/18 (12hr) RB,5357.14,23
+2021-06-13,LG,LG Native Display True Crime & Doc ACR,1388.89,23
+2021-06-13,LG,LG Home Launcher Retention,529.83,23
+2021-06-14,LG,LG Native Display True Crime & Doc ACR,1388.89,24
+2021-06-14,LG,LG Home Launcher Awareness,529.83,24
+2021-06-14,LG,LG Channel Store & Search Awareness,240.79,24
+2021-06-14,LG,LG 6/18 (12hr) RB,5357.14,24
+2021-06-14,LG,LG Home Launcher Retention,529.83,24
+2021-06-15,LG,LG Channel Store & Search Awareness,240.79,24
+2021-06-15,LG,LG Home Launcher Retention,529.83,24
+2021-06-15,LG,LG Native Display True Crime & Doc ACR,1388.89,24
+2021-06-15,LG,LG Home Launcher Awareness,529.83,24
+2021-06-15,LG,LG 6/18 (12hr) RB,5357.14,24
+2021-06-16,LG,LG Home Launcher Retention,529.83,24
+2021-06-16,LG,LG Native Display True Crime & Doc ACR,1388.89,24
+2021-06-16,LG,LG Channel Store & Search Awareness,240.79,24
+2021-06-16,LG,LG Home Launcher Awareness,529.83,24
+2021-06-16,LG,LG 6/18 (12hr) RB,5357.14,24
+2021-06-17,LG,LG Home Launcher Retention,529.83,24
+2021-06-17,LG,LG Native Display True Crime & Doc ACR,1388.89,24
+2021-06-17,LG,LG Home Launcher Awareness,529.83,24
+2021-06-17,LG,LG 6/18 (12hr) RB,5357.14,24
+2021-06-17,LG,LG Channel Store & Search Awareness,240.79,24
+2021-06-18,LG,LG Native Display True Crime & Doc ACR,1388.89,24
+2021-06-18,LG,LG Home Launcher Awareness,529.83,24
+2021-06-18,LG,LG 6/18 (12hr) RB,5357.14,24
+2021-06-18,LG,LG Channel Store & Search Awareness,240.79,24
+2021-06-18,LG,LG Home Launcher Retention,529.83,24
+2021-06-19,LG,LG 6/18 (12hr) RB,5357.14,24
+2021-06-19,LG,LG Home Launcher Retention,529.83,24
+2021-06-19,LG,LG Home Launcher Awareness,529.83,24
+2021-06-19,LG,LG Native Display True Crime & Doc ACR,1388.89,24
+2021-06-19,LG,LG Channel Store & Search Awareness,240.79,24
+2021-06-20,LG,LG Home Launcher Awareness,529.83,24
+2021-06-20,LG,LG 6/18 (12hr) RB,5357.14,24
+2021-06-20,LG,LG Native Display True Crime & Doc ACR,1388.89,24
+2021-06-20,LG,LG Home Launcher Retention,529.83,24
+2021-06-20,LG,LG Channel Store & Search Awareness,240.79,24
+2021-06-21,LG,LG Home Launcher Awareness,529.83,25
+2021-06-21,LG,LG 6/18 (12hr) RB,5357.14,25
+2021-06-21,LG,LG Home Launcher Retention,529.83,25
+2021-06-21,LG,LG Native Display True Crime & Doc ACR,1388.89,25
+2021-06-21,LG,LG Channel Store & Search Awareness,240.79,25
+2021-06-22,LG,LG Native Display True Crime & Doc ACR,1388.89,25
+2021-06-22,LG,LG 6/18 (12hr) RB,5357.14,25
+2021-06-22,LG,LG Channel Store & Search Awareness,240.79,25
+2021-06-22,LG,LG Home Launcher Awareness,529.83,25
+2021-06-22,LG,LG Home Launcher Retention,529.83,25
+2021-06-23,LG,LG Home Launcher Retention,529.83,25
+2021-06-23,LG,LG 6/18 (12hr) RB,5357.14,25
+2021-06-23,LG,LG Channel Store & Search Awareness,240.79,25
+2021-06-23,LG,LG Home Launcher Awareness,529.83,25
+2021-06-23,LG,LG Native Display True Crime & Doc ACR,1388.89,25
+2021-06-24,LG,LG Home Launcher Retention,529.83,25
+2021-06-24,LG,LG Native Display True Crime & Doc ACR,1388.89,25
+2021-06-24,LG,LG Channel Store & Search Awareness,240.79,25
+2021-06-24,LG,LG 6/18 (12hr) RB,5357.14,25
+2021-06-24,LG,LG Home Launcher Awareness,529.83,25
+2021-06-25,LG,LG Native Display True Crime & Doc ACR,1388.89,25
+2021-06-25,LG,LG Channel Store & Search Awareness,240.79,25
+2021-06-25,LG,LG Home Launcher Retention,529.83,25
+2021-06-25,LG,LG Home Launcher Awareness,529.83,25
+2021-06-25,LG,LG 6/18 (12hr) RB,5357.14,25
+2021-06-26,LG,LG Home Launcher Retention,529.83,25
+2021-06-26,LG,LG Home Launcher Awareness,529.83,25
+2021-06-26,LG,LG 6/18 (12hr) RB,5357.14,25
+2021-06-26,LG,LG Native Display True Crime & Doc ACR,1388.89,25
+2021-06-26,LG,LG Channel Store & Search Awareness,240.79,25
+2021-06-27,LG,LG Home Launcher Retention,529.83,25
+2021-06-27,LG,LG Home Launcher Awareness,529.83,25
+2021-06-27,LG,LG 6/18 (12hr) RB,5357.14,25
+2021-06-27,LG,LG Native Display True Crime & Doc ACR,1388.89,25
+2021-06-27,LG,LG Channel Store & Search Awareness,240.79,25
+2021-06-28,LG,LG Native Display - Dream Team,2747.25,26
+2021-06-28,LG,LG Native Display - Torchbearer,729.52,26
+2021-06-28,LG,LG Native Display - Highlight Hero,460.95,26
+2021-06-28,LG,LG Native Display Retention,451.28,26
+2021-06-28,LG,LG Native Display Ads,1052.99,26
+2021-06-28,LG,LG Native Display RON,3571.43,26
+2021-06-28,LG,LG Native Display True Crime & Doc ACR,2182.54,26
+2021-06-29,LG,LG Native Display Retention,451.28,26
+2021-06-29,LG,LG Native Display True Crime & Doc ACR,2182.54,26
+2021-06-29,LG,LG Native Display - Torchbearer,729.52,26
+2021-06-29,LG,LG Native Display RON,3571.43,26
+2021-06-29,LG,LG Native Display - Dream Team,2747.25,26
+2021-06-29,LG,LG Native Display - Highlight Hero,460.95,26
+2021-06-29,LG,LG Native Display Ads,1052.99,26
+2021-06-30,LG,LG Native Display RON,3571.43,26
+2021-06-30,LG,LG Native Display - Dream Team,2747.25,26
+2021-06-30,LG,LG Native Display True Crime & Doc ACR,2182.54,26
+2021-06-30,LG,LG Native Display - Highlight Hero,460.95,26
+2021-06-30,LG,LG Native Display Retention,451.28,26
+2021-06-30,LG,LG Native Display Ads,1052.99,26
+2021-06-30,LG,LG Native Display - Torchbearer,729.52,26
+2021-07-01,LG,LG Native Display - Highlight Hero,460.95,26
+2021-07-01,LG,LG Native Display Ads,1052.99,26
+2021-07-01,LG,LG Native Display - Torchbearer,729.52,26
+2021-07-01,LG,LG Native Display - Dream Team,2747.25,26
+2021-07-01,LG,LG Native Display Retention,451.28,26
+2021-07-01,LG,LG Native Display RON,3571.43,26
+2021-07-01,LG,LG Native Display True Crime & Doc ACR,2182.54,26
+2021-07-02,LG,LG Native Display - Highlight Hero,460.95,26
+2021-07-02,LG,LG Native Display Retention,451.28,26
+2021-07-02,LG,LG Native Display True Crime & Doc ACR,2182.54,26
+2021-07-02,LG,LG Native Display Ads,1052.99,26
+2021-07-02,LG,LG Native Display RON,3571.43,26
+2021-07-02,LG,LG Native Display - Dream Team,2747.25,26
+2021-07-02,LG,LG Native Display - Torchbearer,729.52,26
+2021-07-03,LG,LG Native Display - Dream Team,2747.25,26
+2021-07-03,LG,LG Native Display Ads,1052.99,26
+2021-07-03,LG,LG Native Display - Highlight Hero,460.95,26
+2021-07-03,LG,LG Native Display True Crime & Doc ACR,2182.54,26
+2021-07-03,LG,LG Native Display - Torchbearer,729.52,26
+2021-07-03,LG,LG Native Display Retention,451.28,26
+2021-07-03,LG,LG Native Display RON,3571.43,26
+2021-07-04,LG,LG Native Display - Dream Team,2747.25,26
+2021-07-04,LG,LG Native Display - Torchbearer,729.52,26
+2021-07-04,LG,LG Native Display - Highlight Hero,460.95,26
+2021-07-04,LG,LG Native Display Ads,1052.99,26
+2021-07-04,LG,LG Native Display True Crime & Doc ACR,2182.54,26
+2021-07-04,LG,LG Native Display Retention,451.28,26
+2021-07-04,LG,LG Native Display RON,3571.43,26
+2021-07-05,LG,LG Native Display Ads,1052.99,27
+2021-07-05,LG,LG Native Display - Highlight Hero,460.95,27
+2021-07-05,LG,LG Native Display RON,3571.43,27
+2021-07-05,LG,LG Native Display - Torchbearer,729.52,27
+2021-07-05,LG,LG Native Display True Crime & Doc ACR,2182.54,27
+2021-07-05,LG,LG Native Display - Dream Team,2747.25,27
+2021-07-05,LG,LG Native Display Retention,451.28,27
+2021-07-06,LG,LG Native Display True Crime & Doc ACR,2182.54,27
+2021-07-06,LG,LG Native Display - Highlight Hero,460.95,27
+2021-07-06,LG,LG Native Display RON,3571.43,27
+2021-07-06,LG,LG Native Display - Torchbearer,729.52,27
+2021-07-06,LG,LG Native Display Ads,1052.99,27
+2021-07-06,LG,LG Native Display - Dream Team,2747.25,27
+2021-07-06,LG,LG Native Display Retention,451.28,27
+2021-07-07,LG,LG Native Display Ads,1052.99,27
+2021-07-07,LG,LG Native Display - Highlight Hero,460.95,27
+2021-07-07,LG,LG Native Display RON,3571.43,27
+2021-07-07,LG,LG Native Display - Torchbearer,729.52,27
+2021-07-07,LG,LG Native Display - Dream Team,2747.25,27
+2021-07-07,LG,LG Native Display Retention,451.28,27
+2021-07-07,LG,LG Native Display True Crime & Doc ACR,2182.54,27
+2021-07-08,LG,LG Native Display Ads,1052.99,27
+2021-07-08,LG,LG Native Display Retention,451.28,27
+2021-07-08,LG,LG Native Display - Torchbearer,729.52,27
+2021-07-08,LG,LG Native Display - Highlight Hero,460.95,27
+2021-07-08,LG,LG Native Display True Crime & Doc ACR,2182.54,27
+2021-07-08,LG,LG Native Display RON,3571.43,27
+2021-07-08,LG,LG Native Display - Dream Team,2747.25,27
+2021-07-09,LG,LG Native Display Retention,451.28,27
+2021-07-09,LG,LG Native Display Ads,1052.99,27
+2021-07-09,LG,LG Native Display - Highlight Hero,460.95,27
+2021-07-09,LG,LG Native Display RON,3571.43,27
+2021-07-09,LG,LG Native Display - Torchbearer,729.52,27
+2021-07-09,LG,LG Native Display - Dream Team,2747.25,27
+2021-07-09,LG,LG Native Display True Crime & Doc ACR,2182.54,27
+2021-07-10,LG,LG Native Display - Highlight Hero,460.95,27
+2021-07-10,LG,LG Native Display - Torchbearer,729.52,27
+2021-07-10,LG,LG Native Display RON,3571.43,27
+2021-07-10,LG,LG Native Display True Crime & Doc ACR,2182.54,27
+2021-07-10,LG,LG Native Display - Dream Team,2747.25,27
+2021-07-10,LG,LG Native Display Ads,1052.99,27
+2021-07-10,LG,LG Native Display Retention,451.28,27
+2021-07-11,LG,LG Native Display True Crime & Doc ACR,2182.54,27
+2021-07-11,LG,LG Native Display - Torchbearer,729.52,27
+2021-07-11,LG,LG Native Display - Highlight Hero,460.95,27
+2021-07-11,LG,LG Native Display Ads,1052.99,27
+2021-07-11,LG,LG Native Display Retention,451.28,27
+2021-07-11,LG,LG Native Display RON,3571.43,27
+2021-07-11,LG,LG Native Display - Dream Team,2747.25,27
+2021-07-12,LG,LG Native Display - Torchbearer,729.52,28
+2021-07-12,LG,LG Native Display - Highlight Hero,460.95,28
+2021-07-12,LG,LG Native Display Retention,451.28,28
+2021-07-12,LG,LG Native Display True Crime & Doc ACR,2182.54,28
+2021-07-12,LG,LG Native Display RON,3571.43,28
+2021-07-12,LG,LG Native Display Ads,1052.99,28
+2021-07-12,LG,LG Native Display - Dream Team,2747.25,28
+2021-07-13,LG,LG Native Display - Highlight Hero,460.95,28
+2021-07-13,LG,LG Native Display True Crime & Doc ACR,2182.54,28
+2021-07-13,LG,LG Native Display Ads,1052.99,28
+2021-07-13,LG,LG Native Display - Dream Team,2747.25,28
+2021-07-13,LG,LG Native Display Retention,451.28,28
+2021-07-13,LG,LG Native Display - Torchbearer,729.52,28
+2021-07-13,LG,LG Native Display RON,3571.43,28
+2021-07-14,LG,LG Native Display - Torchbearer,729.52,28
+2021-07-14,LG,LG Native Display Retention,451.28,28
+2021-07-14,LG,LG Native Display - Highlight Hero,460.95,28
+2021-07-14,LG,LG Native Display RON,3571.43,28
+2021-07-14,LG,LG Native Display - Dream Team,2747.25,28
+2021-07-14,LG,LG Native Display Ads,1052.99,28
+2021-07-14,LG,LG Native Display True Crime & Doc ACR,2182.54,28
+2021-07-15,LG,LG Native Display - Highlight Hero,460.95,28
+2021-07-15,LG,LG Native Display Ads,1052.99,28
+2021-07-15,LG,LG Native Display True Crime & Doc ACR,2182.54,28
+2021-07-15,LG,LG Native Display - Torchbearer,729.52,28
+2021-07-15,LG,LG Native Display Retention,451.28,28
+2021-07-15,LG,LG Native Display RON,3571.43,28
+2021-07-15,LG,LG Native Display - Dream Team,2747.25,28
+2021-07-16,LG,LG Native Display Ads,1052.99,28
+2021-07-16,LG,LG Native Display RON,3571.43,28
+2021-07-16,LG,LG Native Display - Highlight Hero,460.95,28
+2021-07-16,LG,LG Native Display - Torchbearer,729.52,28
+2021-07-16,LG,LG Native Display Retention,451.28,28
+2021-07-16,LG,LG Native Display - Dream Team,2747.25,28
+2021-07-16,LG,LG Native Display True Crime & Doc ACR,2182.54,28
+2021-07-17,LG,LG Native Display Retention,451.28,28
+2021-07-17,LG,LG Native Display RON,3571.43,28
+2021-07-17,LG,LG Native Display - Dream Team,2747.25,28
+2021-07-17,LG,LG Native Display True Crime & Doc ACR,2182.54,28
+2021-07-17,LG,LG Native Display - Torchbearer,729.52,28
+2021-07-17,LG,LG Native Display - Highlight Hero,460.95,28
+2021-07-17,LG,LG Native Display Ads,1052.99,28
+2021-07-18,LG,LG Native Display True Crime & Doc ACR,2182.54,28
+2021-07-18,LG,LG Native Display Ads,1052.99,28
+2021-07-18,LG,LG Native Display Retention,451.28,28
+2021-07-18,LG,LG Native Display - Dream Team,2747.25,28
+2021-07-18,LG,LG Native Display - Highlight Hero,460.95,28
+2021-07-18,LG,LG Native Display RON,3571.43,28
+2021-07-18,LG,LG Native Display - Torchbearer,729.52,28
+2021-07-19,LG,LG Native Display - Torchbearer,729.52,29
+2021-07-19,LG,LG Native Display - Dream Team,2747.25,29
+2021-07-19,LG,LG Native Display - Highlight Hero,460.95,29
+2021-07-19,LG,LG Native Display Retention,451.28,29
+2021-07-19,LG,LG Native Display True Crime & Doc ACR,2182.54,29
+2021-07-19,LG,LG Native Display RON,3571.43,29
+2021-07-19,LG,LG Native Display Ads,1052.99,29
+2021-07-20,LG,LG Native Display - Dream Team,2747.25,29
+2021-07-20,LG,LG Native Display - Highlight Hero,460.95,29
+2021-07-20,LG,LG Native Display RON,3571.43,29
+2021-07-20,LG,LG Native Display - Torchbearer,729.52,29
+2021-07-20,LG,LG Native Display True Crime & Doc ACR,2182.54,29
+2021-07-20,LG,LG Native Display Retention,451.28,29
+2021-07-20,LG,LG Native Display Ads,1052.99,29
+2021-07-21,LG,LG Native Display - Highlight Hero,460.95,29
+2021-07-21,LG,LG Native Display True Crime & Doc ACR,2182.54,29
+2021-07-21,LG,LG Native Display Ads,1052.99,29
+2021-07-21,LG,LG Native Display - Dream Team,2747.25,29
+2021-07-21,LG,LG Native Display Retention,451.28,29
+2021-07-21,LG,LG Native Display - Torchbearer,729.52,29
+2021-07-21,LG,LG Native Display RON,3571.43,29
+2021-07-22,LG,LG Native Display Ads,1052.99,29
+2021-07-22,LG,LG Native Display True Crime & Doc ACR,2182.54,29
+2021-07-22,LG,LG Native Display - Torchbearer,729.52,29
+2021-07-22,LG,LG Native Display RON,3571.43,29
+2021-07-22,LG,LG Native Display Retention,451.28,29
+2021-07-22,LG,LG Native Display - Dream Team,2747.25,29
+2021-07-22,LG,LG Native Display - Highlight Hero,460.95,29
+2021-07-23,LG,LG Native Display - Highlight Hero,460.95,29
+2021-07-23,LG,LG Native Display - Dream Team,2747.25,29
+2021-07-23,LG,LG Native Display True Crime & Doc ACR,2182.54,29
+2021-07-23,LG,LG Native Display Retention,451.28,29
+2021-07-23,LG,LG Native Display RON,3571.43,29
+2021-07-23,LG,LG Native Display Ads,1052.99,29
+2021-07-23,LG,LG Native Display - Torchbearer,729.52,29
+2021-07-24,LG,LG Native Display True Crime & Doc ACR,2182.54,29
+2021-07-24,LG,LG Native Display RON,3571.43,29
+2021-07-24,LG,LG Native Display Ads,1052.99,29
+2021-07-24,LG,LG Native Display - Torchbearer,729.52,29
+2021-07-24,LG,LG Native Display - Dream Team,2747.25,29
+2021-07-24,LG,LG Native Display Retention,451.28,29
+2021-07-24,LG,LG Native Display - Highlight Hero,460.95,29
+2021-07-25,LG,LG Native Display - Torchbearer,729.52,29
+2021-07-25,LG,LG Native Display Ads,1052.99,29
+2021-07-25,LG,LG Native Display - Dream Team,2747.25,29
+2021-07-25,LG,LG Native Display Retention,451.28,29
+2021-07-25,LG,LG Native Display - Highlight Hero,460.95,29
+2021-07-25,LG,LG Native Display True Crime & Doc ACR,2182.54,29
+2021-07-25,LG,LG Native Display RON,3571.43,29
+2021-07-26,LG,LG Native Display - Torchbearer,1167.24,30
+2021-07-26,LG,LG Native Display Ads,842.39,30
+2021-07-26,LG,LG Native Display - Highlight Hero,737.52,30
+2021-07-26,LG,LG Native Display Retention,361.02,30
+2021-07-26,LG,LG Native Display - Dream Team,659.34,30
+2021-07-27,LG,LG Native Display - Torchbearer,1167.24,30
+2021-07-27,LG,LG Native Display Ads,842.39,30
+2021-07-27,LG,LG Native Display - Highlight Hero,737.52,30
+2021-07-27,LG,LG Native Display Retention,361.02,30
+2021-07-27,LG,LG Native Display - Dream Team,659.34,30
+2021-07-28,LG,LG Native Display - Highlight Hero,737.52,30
+2021-07-28,LG,LG Native Display - Dream Team,659.34,30
+2021-07-28,LG,LG Native Display Ads,842.39,30
+2021-07-28,LG,LG Native Display Retention,361.02,30
+2021-07-28,LG,LG Native Display - Torchbearer,1167.24,30
+2021-07-29,LG,LG Native Display Ads,842.39,30
+2021-07-29,LG,LG Native Display - Dream Team,659.34,30
+2021-07-29,LG,LG Native Display Retention,361.02,30
+2021-07-29,LG,LG Native Display - Torchbearer,1167.24,30
+2021-07-29,LG,LG Native Display - Highlight Hero,737.52,30
+2021-07-30,LG,LG Native Display - Dream Team,659.34,30
+2021-07-30,LG,LG Native Display Retention,361.02,30
+2021-07-30,LG,LG Native Display - Torchbearer,1167.24,30
+2021-07-30,LG,LG Native Display - Highlight Hero,737.52,30
+2021-07-30,LG,LG Native Display Ads,842.39,30
+2021-07-31,LG,LG Native Display - Dream Team,659.34,30
+2021-07-31,LG,LG Native Display - Torchbearer,1167.24,30
+2021-07-31,LG,LG Native Display Retention,361.02,30
+2021-07-31,LG,LG Native Display - Highlight Hero,737.52,30
+2021-07-31,LG,LG Native Display Ads,842.39,30
+2021-08-01,LG,LG Native Display - Torchbearer,1167.24,30
+2021-08-01,LG,LG Native Display Retention,361.02,30
+2021-08-01,LG,LG Native Display - Highlight Hero,737.52,30
+2021-08-01,LG,LG Native Display Ads,842.39,30
+2021-08-01,LG,LG Native Display - Dream Team,659.34,30
+2021-08-02,LG,LG Native Display Ads,842.39,31
+2021-08-02,LG,LG Native Display Retention,361.02,31
+2021-08-02,LG,LG Native Display - Torchbearer,1167.24,31
+2021-08-02,LG,LG Native Display - Highlight Hero,737.52,31
+2021-08-02,LG,LG Native Display - Dream Team,659.34,31
+2021-08-03,LG,LG Native Display - Dream Team,659.34,31
+2021-08-03,LG,LG Native Display Retention,361.02,31
+2021-08-03,LG,LG Native Display Ads,842.39,31
+2021-08-03,LG,LG Native Display - Highlight Hero,737.52,31
+2021-08-03,LG,LG Native Display - Torchbearer,1167.24,31
+2021-08-04,LG,LG Native Display - Dream Team,659.34,31
+2021-08-04,LG,LG Native Display Retention,361.02,31
+2021-08-04,LG,LG Native Display Ads,842.39,31
+2021-08-04,LG,LG Native Display - Highlight Hero,737.52,31
+2021-08-04,LG,LG Native Display - Torchbearer,1167.24,31
+2021-08-05,LG,LG Native Display Retention,361.02,31
+2021-08-05,LG,LG Native Display Ads,842.39,31
+2021-08-05,LG,LG Native Display - Torchbearer,1167.24,31
+2021-08-05,LG,LG Native Display - Dream Team,659.34,31
+2021-08-05,LG,LG Native Display - Highlight Hero,737.52,31
+2021-08-06,LG,LG Native Display Retention,361.02,31
+2021-08-06,LG,LG Native Display Ads,842.39,31
+2021-08-06,LG,LG Native Display - Torchbearer,1167.24,31
+2021-08-06,LG,LG Native Display - Dream Team,659.34,31
+2021-08-06,LG,LG Native Display - Highlight Hero,737.52,31
+2021-08-07,LG,LG Native Display Retention,361.02,31
+2021-08-07,LG,LG Native Display Ads,842.39,31
+2021-08-07,LG,LG Native Display - Torchbearer,1167.24,31
+2021-08-07,LG,LG Native Display - Dream Team,659.34,31
+2021-08-07,LG,LG Native Display - Highlight Hero,737.52,31
+2021-08-08,LG,LG Native Display - Torchbearer,1167.24,31
+2021-08-08,LG,LG Native Display - Highlight Hero,737.52,31
+2021-08-08,LG,LG Native Display Retention,361.02,31
+2021-08-08,LG,LG Native Display - Dream Team,659.34,31
+2021-08-08,LG,LG Native Display Ads,842.39,31
+2021-08-09,LG,LG Native Display - Dream Team,659.34,32
+2021-08-09,LG,LG Native Display - Highlight Hero,737.52,32
+2021-08-09,LG,LG Native Display - Torchbearer,1167.24,32
+2021-08-09,LG,LG Native Display Ads,842.39,32
+2021-08-09,LG,LG Native Display Retention,361.02,32
+2021-08-10,LG,LG Native Display Retention,361.02,32
+2021-08-10,LG,LG Native Display - Dream Team,659.34,32
+2021-08-10,LG,LG Native Display - Torchbearer,1167.24,32
+2021-08-10,LG,LG Native Display Ads,842.39,32
+2021-08-10,LG,LG Native Display - Highlight Hero,737.52,32
+2021-08-11,LG,LG Native Display - Dream Team,659.34,32
+2021-08-11,LG,LG Native Display Retention,361.02,32
+2021-08-11,LG,LG Native Display - Highlight Hero,737.52,32
+2021-08-11,LG,LG Native Display - Torchbearer,1167.24,32
+2021-08-11,LG,LG Native Display Ads,842.39,32
+2021-08-12,LG,LG Native Display - Highlight Hero,737.52,32
+2021-08-12,LG,LG Native Display Retention,361.02,32
+2021-08-12,LG,LG Native Display - Torchbearer,1167.24,32
+2021-08-12,LG,LG Native Display - Dream Team,659.34,32
+2021-08-12,LG,LG Native Display Ads,842.39,32
+2021-08-13,LG,LG Native Display - Torchbearer,1167.24,32
+2021-08-13,LG,LG Native Display - Highlight Hero,737.52,32
+2021-08-13,LG,LG Native Display Retention,361.02,32
+2021-08-13,LG,LG Native Display - Dream Team,659.34,32
+2021-08-13,LG,LG Native Display Ads,842.39,32
+2021-08-14,LG,LG Native Display - Dream Team,659.34,32
+2021-08-14,LG,LG Native Display - Highlight Hero,737.52,32
+2021-08-14,LG,LG Native Display - Torchbearer,1167.24,32
+2021-08-14,LG,LG Native Display Retention,361.02,32
+2021-08-14,LG,LG Native Display Ads,842.39,32
+2021-08-15,LG,LG Native Display Ads,842.39,32
+2021-08-15,LG,LG Native Display - Dream Team,659.34,32
+2021-08-15,LG,LG Native Display - Highlight Hero,737.52,32
+2021-08-15,LG,LG Native Display Retention,361.02,32
+2021-08-15,LG,LG Native Display - Torchbearer,1167.24,32
+2021-08-16,LG,LG Native Display Retention,361.02,33
+2021-08-16,LG,LG Native Display - Dream Team,659.34,33
+2021-08-16,LG,LG Native Display - Torchbearer,1167.24,33
+2021-08-16,LG,LG Native Display Ads,842.39,33
+2021-08-16,LG,LG Native Display - Highlight Hero,737.52,33
+2021-08-17,LG,LG Native Display - Torchbearer,1167.24,33
+2021-08-17,LG,LG Native Display - Highlight Hero,737.52,33
+2021-08-17,LG,LG Native Display Retention,361.02,33
+2021-08-17,LG,LG Native Display Ads,842.39,33
+2021-08-17,LG,LG Native Display - Dream Team,659.34,33
+2021-08-18,LG,LG Native Display - Dream Team,659.34,33
+2021-08-18,LG,LG Native Display - Torchbearer,1167.24,33
+2021-08-18,LG,LG Native Display - Highlight Hero,737.52,33
+2021-08-18,LG,LG Native Display Ads,842.39,33
+2021-08-18,LG,LG Native Display Retention,361.02,33
